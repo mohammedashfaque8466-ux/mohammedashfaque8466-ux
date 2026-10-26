@@ -1,3 +1,4 @@
+
 <!--
   MOHAMMED ASHFAQUE A | PREMIUM GITHUB PROFILE
   Theme: Midnight • Electric Blue • Cyan
@@ -6,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/mohammedashfaque8466-ux">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B1B3A,100:083344&text=MOHAMMED%20ASHFAQUE%20A&fontSize=36&fontColor=F0F9FF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20VIT&descSize=16&descColor=67E8F9&descAlignY=59&animation=fadeIn" width="100%" alt="Mohammed Ashfaque A — Web Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B1B3A,100:083344&text=MOHAMMED%20ASHFAQUE%20A&fontSize=36&fontColor=F0F9FF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20VIT&descSize=16&descColor=67E8F9&descAlignY=59&animation=fadeIn" width="100%" alt="Mohammed Ashfaque A — Web Developer"/>
 </a>
 
 <br/>
@@ -20,6 +21,9 @@
 <a href="mailto:mohammedashfaque8466@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+<a href="tel:+917200666192">
+  <img src="https://img.shields.io/badge/Phone-Contact%20Me-16A34A?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+</a>
 
 <br/><br/>
 
@@ -31,7 +35,7 @@
 
 <br/>
 
-<a href="#-about-me">
+<a href="#about-me">
   <img src="https://img.shields.io/badge/EXPLORE-ABOUT%20ME-0891B2?style=for-the-badge&logo=readme&logoColor=white" alt="Explore About Me"/>
 </a>
 <a href="https://github.com/mohammedashfaque8466-ux?tab=repositories">
@@ -159,8 +163,19 @@ I'm happy to connect with people interested in web development, technology, desi
 <a href="mailto:mohammedashfaque8466@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Mohammed Ashfaque"/>
 </a>
+
 <a href="https://www.linkedin.com/in/a-mohammed-ashfaque-302b39331">
   <img src="https://img.shields.io/badge/LINKEDIN-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+
+<br/><br/>
+
+<a href="tel:+917200666192">
+  <img src="https://img.shields.io/badge/PHONE-7200666192-16A34A?style=for-the-badge&logo=phone&logoColor=white" alt="Call Mohammed Ashfaque"/>
+</a>
+
+<a href="https://wa.me/917200666192">
+  <img src="https://img.shields.io/badge/WHATSAPP-Message%20Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Mohammed Ashfaque"/>
 </a>
 
 <br/><br/>
@@ -168,9 +183,11 @@ I'm happy to connect with people interested in web development, technology, desi
 <a href="https://www.instagram.com/4shuu07/">
   <img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
+
 <a href="https://www.youtube.com/@vitmemes20">
   <img src="https://img.shields.io/badge/YOUTUBE-Visit%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
+
 <a href="https://github.com/mohammedashfaque8466-ux">
   <img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Journey-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -186,3 +203,4 @@ I'm happy to connect with people interested in web development, technology, desi
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:083344,50:0B1B3A,100:020617" width="100%" alt="Midnight blue and cyan footer"/>
 
 </div>
+
