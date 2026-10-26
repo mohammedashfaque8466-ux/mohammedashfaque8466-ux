@@ -8,7 +8,7 @@
 <!-- PROFILE PICTURE -->
 
 <img
-src="./assets/profile.jpeg"
+src="C:\Users\moham\Downloads\WhatsApp Image 2026-10-26 at 9.01.25 PM.jpeg.bz2"
 width="180"
 height="180"
 alt="Mohammed Ashfaque A"
