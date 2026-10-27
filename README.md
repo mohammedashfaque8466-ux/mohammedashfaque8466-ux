@@ -1,9 +1,20 @@
+
 <!--
   MOHAMMED ASHFAQUE A | PREMIUM GITHUB PROFILE
   Theme: Midnight • Electric Blue • Cyan
 -->
 
 <div align="center">
+
+<!-- PROFILE PICTURE -->
+<img
+  src="https://raw.githubusercontent.com/mohammedashfaque8466-ux/mohammedashfaque8466-ux/main/WhatsApp%20Image%202026-10-26%20at%209.01.25%20PM.jpeg"
+  width="160"
+  height="160"
+  alt="Mohammed Ashfaque A — Profile Picture"
+/>
+
+<br/><br/>
 
 <a href="https://github.com/mohammedashfaque8466-ux">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B1B3A,100:083344&text=MOHAMMED%20ASHFAQUE%20A&fontSize=36&fontColor=F0F9FF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20VIT&descSize=16&descColor=67E8F9&descAlignY=59&animation=fadeIn" width="100%" alt="Mohammed Ashfaque A — Web Developer" />
@@ -186,3 +197,4 @@ I'm happy to connect with people interested in web development, technology, desi
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:083344,50:0B1B3A,100:020617" width="100%" alt="Midnight blue and cyan footer"/>
 
 </div>
+
