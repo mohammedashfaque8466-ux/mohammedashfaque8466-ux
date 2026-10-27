@@ -9,8 +9,8 @@
 <!-- PROFILE PICTURE -->
 <img
   src="https://raw.githubusercontent.com/mohammedashfaque8466-ux/mohammedashfaque8466-ux/main/WhatsApp%20Image%202026-10-26%20at%209.01.25%20PM.jpeg"
-  width="160"
-  height="160"
+  width="320"
+  height="360"
   alt="Mohammed Ashfaque A — Profile Picture"
 />
 
