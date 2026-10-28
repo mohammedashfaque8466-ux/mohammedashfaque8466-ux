@@ -198,7 +198,7 @@ I'm happy to connect with people interested in web development, technology, desi
 </a>
 
 <a href="https://wa.me/917200666192" target="_blank">
-  <img src="https://img.shields.io/badge/WHATSAPP-CHAT%20WITH%20ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/WHATSAPP-CHAT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
 
 
