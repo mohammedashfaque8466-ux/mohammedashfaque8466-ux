@@ -17,7 +17,7 @@
 <br/><br/>
 
 <a href="https://github.com/mohammedashfaque8466-ux">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B1B3A,100:083344&text=MOHAMMED%20ASHFAQUE%20A&fontSize=36&fontColor=F0F9FF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20AT VIT&descSize=16&descColor=67E8F9&descAlignY=59&animation=fadeIn" width="100%" alt="Mohammed Ashfaque A — Web Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:0B1B3A,100:083344&text=MOHAMMED%20ASHFAQUE%20A&fontSize=36&fontColor=F0F9FF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20AT%20VIT&descSize=16&descColor=67E8F9&descAlignY=59&animation=fadeIn" width="100%" alt="Mohammed Ashfaque A — Web Developer" />
 </a>
 
 <br/>
