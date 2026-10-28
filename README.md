@@ -189,7 +189,11 @@ I'm happy to connect with people interested in web development, technology, desi
 <a href="https://github.com/mohammedashfaque8466-ux">
   <img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Journey-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<!-- PHONE NUMBER BUTTON -->
 
+<a href="tel:+917200666192">
+  <img src="https://img.shields.io/badge/PHONE-CALL%20ME-22D3EE?style=for-the-badge&logo=phone&logoColor=white" alt="Call Me" />
+</a>
 <br/><br/>
 
 **Thanks for visiting my profile.**
