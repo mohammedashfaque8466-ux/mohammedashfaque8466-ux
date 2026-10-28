@@ -193,9 +193,11 @@ I'm happy to connect with people interested in web development, technology, desi
 <!-- PHONE NUMBER BUTTON -->
 <!-- PHONE CONTACT BUTTON -->
 <!-- PHONE CONTACT BUTTON -->
+<!-- PHONE CONTACT BUTTON -->
 
 <a href="tel:+917200666192">
   <img src="https://img.shields.io/badge/📞_CALL_NOW-7200666192-22D3EE?style=for-the-badge" alt="Call Me"/>
+</a>
 </a>
 
 <a href="https://wa.me/917200666192" target="_blank">
