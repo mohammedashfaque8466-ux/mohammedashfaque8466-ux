@@ -191,9 +191,8 @@ I'm happy to connect with people interested in web development, technology, desi
 </a>
 <!-- PHONE NUMBER BUTTON -->
 <!-- PHONE CONTACT BUTTON -->
-
 <a href="tel:+917200666192">
-  <img src="https://img.shields.io/badge/📞_CALL_NOW-7200666192-22D3EE?style=for-the-badge" alt="Call Me"/>
+  <img src="https://img.shields.io/badge/PHONE-CALL%20ME-22D3EE?style=for-the-badge&logo=phone&logoColor=white" alt="Call +91 7200666192"/>
 </a>
 <a href="https://wa.me/917200666192" target="_blank">
   <img src="https://img.shields.io/badge/WHATSAPP-CHAT%20WITH%20ME-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
