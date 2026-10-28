@@ -138,7 +138,11 @@ I want each project to demonstrate a clear purpose, a thoughtful approach, and w
 <br/><br/>
 
 <a href="https://github.com/mohammedashfaque8466-ux">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedashfaque8466-ux&bg_color=050816&color=DCE7F5&line=22D3EE&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity"/>
+ <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedashfaque8466-ux&layout=compact&theme=tokyonight&langs_count=8" alt="Most Used Languages" />
+
+</div>
 </a>
 
 <br/>
