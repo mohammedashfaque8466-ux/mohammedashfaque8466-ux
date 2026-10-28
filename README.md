@@ -190,9 +190,7 @@ I'm happy to connect with people interested in web development, technology, desi
   <img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Journey-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <!-- PHONE NUMBER BUTTON -->
-<a href="tel:+917200666192">
-  <img src="https://img.shields.io/badge/📞_CALL_ME-+91_7200666192-22D3EE?style=for-the-badge" alt="Call Me"/>
-</a>
+<a href="tel:+917200666192">📞 Call Me</a>
 <br/><br/>
 
 **Thanks for visiting my profile.**
